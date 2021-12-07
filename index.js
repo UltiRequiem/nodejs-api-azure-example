@@ -1,5 +1,5 @@
-import { createServer } from "http";
-import { env } from "process";
+const { createServer } = require("http");
+const { env } = require("process");
 
 const config = { port: env.PORT || 3000 };
 

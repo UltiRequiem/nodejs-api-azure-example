@@ -6,7 +6,6 @@
     "start": "node .",
     "dev": "nodemon ."
   },
-  "type": "module",
   "repository": "git@github.com:UltiRequiem/nodejs-api-azure-example.git",
   "author": "Eliaz Bobadilla <eliaz.bobadilladev@gmail.com>",
   "license": "MIT",

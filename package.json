@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-api-azure-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "type": "module",
+  "repository": "git@github.com:UltiRequiem/nodejs-api-azure-example.git",
+  "author": "Eliaz Bobadilla <eliaz.bobadilladev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
